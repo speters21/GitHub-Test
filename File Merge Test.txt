@@ -1,0 +1,17 @@
+Original Document
+
+<<<<<<< HEAD
+Saved in master branch
+
+//////////////////////
+=======
+//////////////////////
+
+Updated Document
+
+Saved in master branch
+
+//////////////////////
+
+More Things
+>>>>>>> origin/Second-Branch
